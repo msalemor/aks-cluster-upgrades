@@ -8,7 +8,7 @@
 ## 2.0 - What could go wrong during an upgrade?
 
 - Possible deprecation of APIs
-- Using custom objects that may break after upgrade
+- Using custom objects that may not work on the new version
 
 ## 3.0 - What are some recommendations?
 
